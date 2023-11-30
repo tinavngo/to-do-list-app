@@ -33,4 +33,5 @@ function newItem() {
 
   // 4. Recording the items:
   $('#list').sortable();
-}
+} 
+
